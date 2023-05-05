@@ -1,6 +1,7 @@
 import Image from "next/image";
 import LeftSide from "@/app/components/LeftSide";
 import RightSide from "@/app/components/RightSide";
+import Close from "@/app/components/Close";
 
 export default function Home() {
   return (
@@ -10,6 +11,8 @@ export default function Home() {
           <LeftSide />
 
           <RightSide />
+
+          <Close />
         </div>
       </div>
     </>
