@@ -18,7 +18,7 @@ const LeftSide = () => {
         />
 
         <div className="flex flex-col items-center justify-between mt-6 space-y-6 md:flex-row md:space-y-0">
-          <div className="font-thin text-cyan-500">Forgot Password</div>
+          <div className="font-thin text-cyan-700">Forgot Password</div>
 
           <button className="w-full md:w-auto flex justify-center items-center p-6 space-x-4 font-sans font-bold text-white rounded-md shadow-lg px-9 bg-cyan-700 shadow-cyan-100 hover:bg-opacity-90 shadow-sm hover:shadow-lg border transition hover:-translate-y-0.5 duration-150">
             <span>Next</span>
